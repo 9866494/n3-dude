@@ -1,1 +1,5 @@
-# n3-dude
+
+
+export FLASK_APP=index.py
+export FLASK_DEBUG=1
+flask run
